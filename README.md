@@ -1,2 +1,2 @@
-# geolocation1
-this project is developed to build a maven program intergrated in jenkins
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
